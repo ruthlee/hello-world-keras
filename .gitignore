@@ -1,3 +1,6 @@
 
 # ignore these files
 *.csv
+*.ipynb_checkpoints
+*.DS_Store
+
